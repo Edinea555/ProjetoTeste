@@ -1,7 +1,7 @@
-# ConsultoriaCA 🚧
+# Consultoria de Diversidade
 
-Projeto em desenvolvimento objetivando estruturar um site de consultoria em Análise e Inteligência de Dados.
+Projeto em desenvolvimento objetivando estruturar um site de consultoria de Diversidade e Letramento Racial.
 
-https://ceciliaoliveira-s.github.io/ConsultoriaCA/
 
-Por Cecília Oliveira e Mateus Antonio.   
+
+Por Edinéa Conceição
